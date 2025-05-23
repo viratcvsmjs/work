@@ -1,0 +1,25 @@
+assets/img/medicine_icon.png
+assets/img/lab_tests_icon.png
+assets/img/doctor_consult_icon.png
+assets/img/healthcare_icon.png
+assets/img/health_blogs_icon.png
+assets/img/plus_icon.png
+assets/img/offers_icon.png
+assets/img/arrow_right.png (for category and carousel navigation)
+assets/img/arrow_left.png (for carousel navigation)
+assets/img/cancer_care_banner.jpg (or similar image for the banner)
+assets/img/bp_monitor_banner.jpg (or similar image for the banner)
+Example Placeholder Image URLs:
+You can temporarily use services like via.placeholder.com for quick visual representation:
+
+https://via.placeholder.com/80x80?text=Medicine
+https://via.placeholder.com/80x80?text=Lab+Tests
+https://via.placeholder.com/80x80?text=Doctor
+https://via.placeholder.com/80x80?text=Health
+https://via.placeholder.com/80x80?text=Blog
+https://via.placeholder.com/80x80?text=PLUS
+https://via.placeholder.com/80x80?text=Offers
+https://via.placeholder.com/20x20?text=> (for right arrow)
+https://via.placeholder.com/20x20?text=< (for left arrow)
+https://via.placeholder.com/900x200?text=Cancer+Care+Banner (for banner)
+https://via.placeholder.com/900x200?text=BP+Monitor+Banner (for banner
